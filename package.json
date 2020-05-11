@@ -1,0 +1,20 @@
+{
+  "name": "my-vanilla-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/batel-shafir/my-vanilla-project.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/batel-shafir/my-vanilla-project/issues"
+  },
+  "homepage": "https://github.com/batel-shafir/my-vanilla-project#readme"
+}
