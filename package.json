@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/batel-shafir/my-vanilla-project/issues"
   },
-  "homepage": "https://github.com/batel-shafir/my-vanilla-project#readme"
+  "homepage": "https://github.com/batel-shafir/my-vanilla-project#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
