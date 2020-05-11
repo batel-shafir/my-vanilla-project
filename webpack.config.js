@@ -56,6 +56,7 @@ module.exports = {
       template: "./src/html/index.html",
       filename: "./index.html",
       excludeChunks: [ 'server' ]
-    })
+    }),
+    new webpack.NoEmitOnErrorsPlugin()
   ]
 }
