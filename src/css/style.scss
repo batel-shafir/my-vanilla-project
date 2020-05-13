@@ -1,6 +1,25 @@
-$body-color: red;
 
-.description {
-    font-size: 14px;
-    color: blue
-  }
+
+
+.circle{
+  height: 80px;
+  width: 80px;
+  border-radius: 50%;
+  background-color: green;
+}
+
+.container{
+    width: 9.375em;
+    height: 9.375em;
+    border: 0.062em solid #f00;
+    Margin: auto;
+    background-color: #fff;
+    width: 100%;
+    height: 100%;
+    border: 0.062em solid #000;
+    box-sizing: border-box;
+    border-radius: 50%;
+    background-color: #fed;
+    box-shadow: inset 0 0 1em rgba( 0, 0, 0, 0.3 );
+ 
+}
